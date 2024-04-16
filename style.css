@@ -1,0 +1,29 @@
+table,td{
+    border:1px solid black;
+    text-align: center;
+    border-color: rgb(147, 4, 179);
+    background-color:rgb(110, 216, 239);
+    border-radius:5%;
+    border-color: brown;
+    
+    
+}
+p{
+    color: rgb(172, 105, 236);
+    font-size: large;
+    
+}
+body{
+    text-align: center;
+}
+td{
+   border-style:groove;
+}
+input{
+background-color: rgb(193, 230, 207);
+border-color: blueviolet;
+}
+.center {
+margin-left: auto;
+margin-right: auto;
+}
